@@ -1,4 +1,10 @@
-## Hi there 👋
+# Halo semua! 👋
+
+Perkenalkan nama saya **[Nur Saputra]**.<br>
+
+Saya seorang **Senior Frontend Engineer**.<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [LinkedIn](https://www.linkedin.com/in/nur-saputra-598059253/) ku ya.
 
 <!--
 **nursaputraajalah/nursaputraajalah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,22 +1,16 @@
-# Halo semua! 👋
+# Hello everyone! 👋
 
-Perkenalkan nama saya **[Nur Saputra]**.<br>
+Let me introduce myself, my name is **Nur Saputra**.<br>
 
-Saya seorang **Senior Frontend Engineer**.<br>
+I am a **Frontend Engineer**.<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [LinkedIn](https://www.linkedin.com/in/nur-saputra-598059253/) ku ya.
+### Github Statistic
+<p align="left">
+<a href="https://github.com/nursaputraajalah">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nursaputraajalah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nursaputraajalah&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
-<!--
-**nursaputraajalah/nursaputraajalah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Reach me on
+- <a href="https://www.linkedin.com/in/nur-saputra-598059253/">LinkedIn</a>
